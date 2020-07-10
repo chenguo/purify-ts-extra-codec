@@ -1,5 +1,5 @@
 import { chainCodec, extendCodec } from "./utils";
-import { Codec, Left, number, Right, string } from "purify-ts";
+import { Codec, Left, number, Right, string } from "@dave-inc/purify-ts";
 
 export type NumberRangeOption = {
   gt?: number;

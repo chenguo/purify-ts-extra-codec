@@ -797,6 +797,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@dave-inc/purify-ts@0.17.2":
+  version "0.17.2"
+  resolved "https://registry.yarnpkg.com/@dave-inc/purify-ts/-/purify-ts-0.17.2.tgz#0a1e30d93f34951b74a56a7cdc8b50e0e6eec00e"
+  integrity sha512-Q8pwMWsdDqZB60p+kUOGMw4wBAwTHMB0UvdH93zy6j3DHr2R41/3VBPmwEPKrMW8ADE9OPkmyVCcXC+BPAZqAg==
+
 "@jest/console@^24.7.1", "@jest/console@^24.9.0":
   version "24.9.0"
   resolved "https://registry.yarnpkg.com/@jest/console/-/console-24.9.0.tgz#79b1bc06fb74a8cfb01cbdedf945584b1b9707f0"
@@ -1073,7 +1078,7 @@
   dependencies:
     jest-diff "^24.3.0"
 
-"@types/json-schema@^7.0.3":
+"@types/json-schema@^7.0.3", "@types/json-schema@^7.0.4":
   version "7.0.4"
   resolved "https://registry.yarnpkg.com/@types/json-schema/-/json-schema-7.0.4.tgz#38fd73ddfd9b55abb1e1b2ed578cb55bd7b7d339"
   integrity sha512-8+KAKzEvSUdeo+kmqnKrqgeE+LcA0tjYWFY7RPProVYwnqDjukzO+3b6dLD56rYX5TdWejnEOLJYOIeh4CXKuA==
@@ -4587,11 +4592,6 @@ punycode@^2.1.0, punycode@^2.1.1:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.1.1.tgz#b58b010ac40c22c5657616c8d2c2c02c7bf479ec"
   integrity sha512-XRsRjdf+j5ml+y/6GKHPZbrF/8p2Yga0JPtdqTIY2Xe5ohJPD9saDJJLPvp9+NSBprVvevdXZybnj2cv8OEd0A==
-
-purify-ts@^0.15.1:
-  version "0.15.1"
-  resolved "https://registry.yarnpkg.com/purify-ts/-/purify-ts-0.15.1.tgz#fb32811d745d4fce7c592d36fc64c01a57a4dbf8"
-  integrity sha512-3PjYD3wTQDE+fH2alMXGRjvk3ufKhhkAGw3d1gb2vsVRkLSc8EzEx9XJHvWYdpSZpljTTcoiHtIPVmyuHhrJ9A==
 
 qs@~6.5.2:
   version "6.5.2"

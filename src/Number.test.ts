@@ -1,4 +1,4 @@
-import { Left, Right } from "purify-ts";
+import { Left, Right } from "@dave-inc/purify-ts";
 import {
   Integer,
   IntegerFromString,

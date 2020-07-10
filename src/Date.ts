@@ -1,4 +1,4 @@
-import { Codec, Left, Right, string } from "purify-ts";
+import { Codec, Left, Right, string } from "@dave-inc/purify-ts";
 import isValid from "date-fns/isValid";
 import formatDate from "date-fns/format";
 import parseDate from "date-fns/parse";
